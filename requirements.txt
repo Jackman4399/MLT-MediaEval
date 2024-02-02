@@ -1,0 +1,7 @@
+pandas
+pathlib
+scikit-learn
+numpy
+plotly
+re
+nltk
